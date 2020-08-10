@@ -1,0 +1,7 @@
+﻿  week4.cpp
+c:\users\yanyi\source\repos\week4\week4\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\yanyi\source\repos\week4\week4\week4.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yanyi\source\repos\week4\week4\week4.cpp(119): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\yanyi\source\repos\week4\week4\week4.cpp(159): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
